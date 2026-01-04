@@ -1,0 +1,21 @@
+body{
+  background:#020617;
+  color:white;
+  font-family:Arial;
+  height:100vh;
+  display:flex;
+  justify-content:center;
+  align-items:center;
+}
+
+.toast{
+  position:fixed;
+  bottom:30px;
+  right:30px;
+  background:#22c55e;
+  color:#022c22;
+  padding:12px 18px;
+  border-radius:8px;
+  display:none;
+  font-weight:bold;
+}
